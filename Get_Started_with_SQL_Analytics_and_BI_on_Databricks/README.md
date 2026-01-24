@@ -2,7 +2,7 @@
 
 - List the four key products lines available from Databricks
 - Describe how each product line serves its respective audience
-- Navigate the DatabricksWorkspace UI
+- Navigate the Databricks Workspace UI
 - Use Databricks to complete commom data analytics tasks
 - Use Databricks SQL to complete exploratory data analysison data ingested in the platform
 
