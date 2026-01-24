@@ -7,18 +7,17 @@
 - Use Databricks SQL to complete exploratory data analysison data ingested in the platform
 
 <div style="text-align: center;">
-  <img src="./imgs/databricks_workspace.png" width="80%">
+  <img src="./imgs/databricks_workspace.png" width="85%">
 </div>
 
 - Leverage Delta Lake capabilities to support data exploration and manipulation
 - Create dashboards within Databricks to display your work
 - Create a Genie Spaces to leverage natural language to garner insights from data available in the platform
-</center>
+
 <div style="text-align: center;">
-<img src="./imgs/databricks_genie_space.png" width="70%">
+<img src="./imgs/databricks_genie_space.png" width="85%">
 </div>
 
 <div style="text-align: center;">
-<img src="./imgs/databricks_dashboard.png" width="70%">
+<img src="./imgs/databricks_dashboard.png" width="85%">
 </div>
-
