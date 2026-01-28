@@ -1,14 +1,12 @@
-##  Course learning objectives
+## Get Started with SQL Analytics and BI on Databricks
+
+###  Course learning objectives
 
 - List the four key products lines available from Databricks
 - Describe how each product line serves its respective audience
 - Navigate the Databricks Workspace UI
 - Use Databricks to complete commom data analytics tasks
 - Use Databricks SQL to complete exploratory data analysison data ingested in the platform
-
-<div style="text-align: center;">
-  <img src="./imgs/databricks_workspace.png" width="85%">
-</div>
 
 - Leverage Delta Lake capabilities to support data exploration and manipulation
 - Create dashboards within Databricks to display your work
