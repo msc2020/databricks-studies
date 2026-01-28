@@ -2,9 +2,9 @@
 
 ###  Course description
 
-This foundational course introduces AI agents and their use in enterprise applications on Databricks, including the Mosaic AI platform and Agent Bricks. Learners will examine what AI agents are, how they function, and how they mimic human reasoning to handle complex tasks.
+>This foundational course introduces AI agents and their use in enterprise applications on Databricks, including the Mosaic AI platform and Agent Bricks. Learners will examine what AI agents are, how they function, and how they mimic human reasoning to handle complex tasks.
 
-The course covers real-world agent use cases and provides a basic introduction to advanced topics such as agentic workflows and multi-agent systems. It also explores how Agent Bricks simplifies the development of enterprise-ready agents across various applications, with demos showing how to build and use agents on Databricks.
+>The course covers real-world agent use cases and provides a basic introduction to advanced topics such as agentic workflows and multi-agent systems. It also explores how Agent Bricks simplifies the development of enterprise-ready agents across various applications, with demos showing how to build and use agents on Databricks.
 
 
 ### Application
