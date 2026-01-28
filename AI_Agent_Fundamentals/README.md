@@ -17,3 +17,5 @@ After extracting and structuring the information present in an image of today's 
 <img src="imgs/cardapio-hoje.png">
 
 <img src="imgs/image_1769618704800.png">
+
+- [See the Jupyter notebook codes](ai_agent_fundamentals.ipynb)
