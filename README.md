@@ -1,6 +1,9 @@
 
 ### Courses
 
+- [Prompt_Engineering_Fundamentals](https://customer-academy.databricks.com/learn/courses/4733/prompt-engineering-fundamentals?hash=e639f2dd99b1807c5187300429c1b882e885e582&generated_by=1410453)
+  - [codes](./Prompt_Engineering_Fundamentals/prompt_engineering_fundamentals.ipynb)
+
 
 - [AI Agent Fundamentals](https://customer-academy.databricks.com/learn/courses/4482/ai-agent-fundamentals?hash=4bc0079ee152a7f43b3cb77243357ee943fadc27&generated_by=1410453)
   - [codes](./AI_Agent_Fundamentals/ai_agent_fundamentals.ipynb)
