@@ -7,8 +7,7 @@
 
 ### Application
 
-To test the concepts presented in the course and take advantage of the Databricks infrastructure made available to students, we created an agent that integrates a tool for a given task. This task included setting up the environment, choosing a dataset of interest to us (evaluating paper reviews), ingesting the data, creating a base for vector search index, including embedding tasks, chunking, dimensionality compatibility and practical semantic search tests on the created vector index table. Experiment codes:
-
+To test the concepts presented in the course and take advantage of the Databricks infrastructure made available to students, we created an agent that integrates a tool for a given task. This task included setting up the environment, choosing a dataset of interest to us (evaluating paper reviews), ingesting the data, creating a base for vector search index, including embedding tasks, chunking, dimensionality compatibility and practical semantic search tests on the created vector index table.
 
 <img src="imgs/res_vector_search.png">
 
