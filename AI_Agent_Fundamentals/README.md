@@ -14,8 +14,10 @@ To practice what we learned in the course, we created a simple agent that can an
 
 After extracting and structuring the information present in an image of today's menu (using Tesseract OCR and another version with a multimodal model), we connected the Databricks Genie agent to answer questions about today's menu.
 
-<img src="imgs/cardapio-hoje.png">
+
 
 <img src="imgs/image_1769618704800.png">
+
+<img src="imgs/answer_of_the_ai_agent_with_sql_tool_function.png">
 
 - [See the Jupyter notebook codes](ai_agent_fundamentals.ipynb)

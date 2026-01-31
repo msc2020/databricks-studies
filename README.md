@@ -1,6 +1,10 @@
 
 ### Courses
 
+
+- [Get Started with AI Agents on Databricks](https://customer-academy.databricks.com/learn/courses/4464/get-started-with-ai-agents-on-databricks?hash=348a16861634af3e5ed8077b85a4e02cfe9b6765&generated_by=1410453)
+  - [codes](./Get_Started_with_AI_Agents_on_Databricks/get_started_with_ai_agents.ipynb)
+  
 - [Prompt_Engineering_Fundamentals](https://customer-academy.databricks.com/learn/courses/4733/prompt-engineering-fundamentals?hash=e639f2dd99b1807c5187300429c1b882e885e582&generated_by=1410453)
   - [codes](./Prompt_Engineering_Fundamentals/prompt_engineering_fundamentals.ipynb)
 
