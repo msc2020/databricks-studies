@@ -1,6 +1,11 @@
 
 ### Courses
 
+- [Generative AI Application Development](https://customer-academy.databricks.com/learn/courses/2716/generative-ai-application-development/lessons?generated_by=1410453&hash=d667dec43e3f900bc28cfc7145ee329ef573b07b)
+  - codes:
+    - [prepare-data](./Generative%20AI%20Application%20Development/01[prepare-data]generative-ai-application-development.ipynb)
+    -  [build-chains](./Generative%20AI%20Application%20Development/02[build-chains]generative-ai-application-development.ipynb)
+    -  [agent-desing](./Generative%20AI%20Application%20Development/03[agent-design]generative-ai-application-development.ipynb)
 
 - [Get Started with AI Agents on Databricks](https://customer-academy.databricks.com/learn/courses/4464/get-started-with-ai-agents-on-databricks?hash=348a16861634af3e5ed8077b85a4e02cfe9b6765&generated_by=1410453)
   - [codes](./Get_Started_with_AI_Agents_on_Databricks/get_started_with_ai_agents.ipynb)
