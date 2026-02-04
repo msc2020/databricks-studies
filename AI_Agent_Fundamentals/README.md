@@ -6,6 +6,7 @@
 
 >The course covers real-world agent use cases and provides a basic introduction to advanced topics such as agentic workflows and multi-agent systems. It also explores how Agent Bricks simplifies the development of enterprise-ready agents across various applications, with demos showing how to build and use agents on Databricks.
 
+- https://customer-academy.databricks.com/learn/courses/4482/ai-agent-fundamentals?hash=4bc0079ee152a7f43b3cb77243357ee943fadc27&generated_by=1410453
 
 ### Application
 

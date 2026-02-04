@@ -4,6 +4,7 @@
 
 >This course introduces contextual generative AI solutions using the retrieval-augmented generation (RAG) method. First, you’ll be introduced to RAG architecture and the significance of contextual information using Mosaic AI Playground. Next, we’ll show you how to prepare data for generative AI solutions and connect this process with building an RAG architecture. Finally, you’ll explore concepts related to context, embedding vectors, vector databases, and the utilization of Mosaic AI Vector Search.
 
+- https://customer-academy.databricks.com/learn/courses/2716/generative-ai-application-development/lessons?generated_by=1410453&hash=d667dec43e3f900bc28cfc7145ee329ef573b07b
 
 ### Experiments with LangChain, tools, agents and LLMs
 

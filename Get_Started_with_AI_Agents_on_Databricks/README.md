@@ -4,6 +4,7 @@
 
 >This course is an introduction to AI agents, their role in modern AI applications, and how to build AI agent applications on the Databricks platform. You'll learn about the principles of AI agents, how they differ from traditional AI systems, and explore their key components. Through interactive demos and hands-on labs, you'll see how to build, deploy, and evaluate AI agents on Databricks using Mosaic AI and Agent Bricks. By the end of this course, you'll understand how to create and deploy AI agents using the Databricks Data Intelligence Platform.
 
+- https://customer-academy.databricks.com/learn/courses/4464/get-started-with-ai-agents-on-databricks?hash=348a16861634af3e5ed8077b85a4e02cfe9b6765&generated_by=1410453
 
 ### Application
 
