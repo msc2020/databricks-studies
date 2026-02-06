@@ -13,7 +13,7 @@ To test the concepts presented in the course and take advantage of the Databrick
 <img src="imgs/code_output.png">
 
 
-- **Jupyter notebooks:**
-     - [prepare-data](./Generative%20AI%20Application%20Development/01[prepare-data]generative-ai-application-development.ipynb)
-     -  [build-chains](./Generative%20AI%20Application%20Development/02[build-chains]generative-ai-application-development.ipynb)
-     -  [agent-desing](./Generative%20AI%20Application%20Development/03[agent-design]generative-ai-application-development.ipynb)
+### Jupyter notebooks:**
+   - [prepare-data](./Generative%20AI%20Application%20Development/01[prepare-data]generative-ai-application-development.ipynb)
+   -  [build-chains](./Generative%20AI%20Application%20Development/02[build-chains]generative-ai-application-development.ipynb)
+   -  [agent-desing](./Generative%20AI%20Application%20Development/03[agent-design]generative-ai-application-development.ipynb)
