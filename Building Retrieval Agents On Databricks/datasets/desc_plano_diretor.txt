@@ -1,0 +1,7 @@
+O Plano Diretor de Tecnologia da Informação (PDTI) é um documento estratégico que orienta a gestão de TI em uma organização, definindo objetivos, metas, iniciativas e recursos necessários para o desenvolvimento e uso eficaz da Tecnologia da Informação. Ele busca otimizar processos, garantir a segurança da informação e melhorar a tomada de decisões, promovendo inovação e eficiência no uso das tecnologias.
+
+Componentes do PDTI:
+- Ações Planejadas: Define projetos e atividades para alcançar objetivos estratégicos, incluindo prazos, responsáveis e recursos.
+- Análise de Gestão: Avalia a capacidade da empresa para implementar o PDTI, considerando recursos humanos, financeiros e tecnológicos.
+- Objetivos Finais: Estabelece resultados esperados, como melhorias na infraestrutura, segurança e eficiência operacional.
+O PDTI é fundamental para alinhar a TI aos objetivos organizacionais e garantir que a tecnologia seja usada de forma eficaz e eficiente. Além disso, é um requisito para órgãos públicos, conforme a Instrução Normativa nº 04/2010 do Ministério do Planejamento, Orçamento e Gestão
