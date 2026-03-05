@@ -7,7 +7,7 @@
 
 - https://customer-academy.databricks.com/learn/course/2479/fine-tuning-embeddings-and-advanced-retrieval?hash=ff7304b62f08fe04bf70123128004aa34d534526&generated_by=1410453
 
-<img src='./imgs/answers_article_questions.png'>
+<img src='./imgs/serving_endpoint_ft_embedding.png'>
 
 ### Codes
 
