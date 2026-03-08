@@ -1,4 +1,4 @@
-## AI Agent Fundamentals
+## Generative AI Application Development
 
 ###  Course description
 
