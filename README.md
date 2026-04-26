@@ -2,6 +2,14 @@
 ### Courses
 
 
+- [Data Preparation for Machine Learning](https://customer-academy.databricks.com/learn/course/2343/data-preparation-for-machine-learning?hash=819961100fd4840036ef52dd36d197b176689227&generated_by=1410453)
+
+  - codes:
+    - [01. data_prep.ipynb](./Data%20Preparation%20for%20Machine%20Learning/01.%20data_prep.ipynb)
+    - [02. feature_engineer_pipeline.ipynb](./Data%20Preparation%20for%20Machine%20Learning/02.%20feature_engineer_pipeline.ipynb)
+    - [03. feature_store.ipynb](./Data%20Preparation%20for%20Machine%20Learning/03.%20feature_store.ipynb)
+    
+
 - [Fine-tuning Embeddings and Advanced Retrieval](https://customer-academy.databricks.com/learn/course/2479/fine-tuning-embeddings-and-advanced-retrieval?hash=ff7304b62f08fe04bf70123128004aa34d534526&generated_by=1410453)
 
   - codes:
