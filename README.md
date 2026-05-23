@@ -1,6 +1,13 @@
 
 ### Courses
 
+- [Machine Learning Model Development](https://customer-academy.databricks.com/learn/courses/2390/machine-learning-model-development?hash=bae25180b9ac14f0544e16806f87d43e21e422d6&generated_by=1410453
+)
+
+  - codes:
+      - [01. model_dev_workflow.ipynb](./Machine%20Learning%20Model%20Development/01.%20model_dev_workflow.ipynb)
+      - [02. clustering_embeddings.ipynb](./Machine%20Learning%20Model%20Development/02.%20clustering_embeddings.ipynb)
+
 
 - [Data Preparation for Machine Learning](https://customer-academy.databricks.com/learn/course/2343/data-preparation-for-machine-learning?hash=819961100fd4840036ef52dd36d197b176689227&generated_by=1410453)
 
