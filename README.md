@@ -1,6 +1,17 @@
 
 ### Courses
 
+- [Machine Learning Model Deployment](https://customer-academy.databricks.com/learn/courses/2395/machine-learning-model-deployment)
+
+  - codes:
+    - [01. classifier.ipynb](./Machine%20Learning%20Model%20Deployment/01.%20classifier.ipynb)
+    - [02. mlflow_classifier_imdb.ipynb](./Machine%20Learning%20Model%20Deployment/02.%20mlflow_classifier_imdb.ipynb)
+    - [03. mlflow_classifier_inference.ipynb](./Machine%20Learning%20Model%20Deployment/03.%20mlflow_classifier_inference.ipynb)
+    - [04. databricks_classifier_imdb.ipynb](./Machine%20Learning%20Model%20Deployment/04.%20databricks_classifier_imdb.ipynb)
+    - [05. databricks_classifier_eval.ipynb](./Machine%20Learning%20Model%20Deployment/05.%20databricks_classifier_eval.ipynb)
+
+
+
 - [Machine Learning Model Development](https://customer-academy.databricks.com/learn/courses/2390/machine-learning-model-development?hash=bae25180b9ac14f0544e16806f87d43e21e422d6&generated_by=1410453
 )
 
